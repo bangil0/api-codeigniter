@@ -55,3 +55,4 @@ $route['hapus/(:any)'] = 'json/hapus/$1';
 $route['ubah/(:any)/(:any)'] = 'json/ubah/$1/$2';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
+
